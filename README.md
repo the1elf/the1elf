@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @the1elf / Mel
+- 👋 Hi, I’m @the1elf
 - 👀 I’m interested in coding, networking, and pentesting
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on small projects to enhance learning.
